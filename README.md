@@ -1,5 +1,5 @@
 # Introduction and Foundations
-## Project: Titanic Survival Exploration
+## Titanic Survival Exploration
 
 ### Install
 
