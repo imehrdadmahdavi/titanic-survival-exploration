@@ -1,4 +1,3 @@
-# Introduction and Foundations
 ## Titanic Survival Exploration and Data Analysis
 
 ### Description
