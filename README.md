@@ -3,6 +3,8 @@
 
 ### Install
 
+This project creates decision functions (non-machine learning approach) that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.
+
 This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
