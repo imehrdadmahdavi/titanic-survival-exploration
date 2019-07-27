@@ -1,9 +1,11 @@
 # Introduction and Foundations
 ## Titanic Survival Exploration and Data Analysis
 
-### Install
+### Description
 
 This project creates decision functions using data analytic approachwa to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.
+
+### Install
 
 This project ran tested on  **Python 2.7** and **Python 3.7** and the following Python libraries installed:
 
