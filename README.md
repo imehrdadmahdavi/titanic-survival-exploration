@@ -1,10 +1,9 @@
-# Machine Learning Engineer Nanodegree
-## Introduction and Foundations
+# Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
@@ -13,11 +12,11 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `visuals.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file.
 
 ### Run
 
@@ -35,7 +34,7 @@ This will open the Jupyter Notebook software and project file in your web browse
 
 ### Data
 
-The dataset used in this project is included as `titanic_data.csv`. This dataset is provided by Udacity and contains the following attributes:
+The dataset used in this project is included as `titanic_data.csv` and contains the following attributes:
 
 **Features**
 - `pclass` : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
