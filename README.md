@@ -19,7 +19,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file.
+The code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file.
 
 ### Run
 
